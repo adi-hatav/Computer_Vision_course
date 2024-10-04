@@ -1,0 +1,2 @@
+This folder should include all the files needed to run the code (e.g., images, data files) which are your
+own.
